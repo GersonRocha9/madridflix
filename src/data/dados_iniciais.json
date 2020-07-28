@@ -1,0 +1,179 @@
+{
+  "categorias": [
+    {
+      "titulo": "LA LIGA 2019/20",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Vídeos do 34º título da La Liga"
+      },
+      "videos": [
+        {
+          "titulo": "MADRIDFLIX",
+          "url": "https://www.youtube.com/watch?v=Dm0iDD7XbSU"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=PMu1vwmnuvE"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=SmKknhp0QRQ"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=s5fPCcm-h9s"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=hs_Vyg60xdo"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=aYUH9FJVXn4"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=UhkhAPBYJ5Y"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=pP2FB9WKKM4"
+        }        
+      ]
+    },
+    {
+      "titulo": "REAL MADRID FEM",
+      "cor": "#D433FF",
+      "link_extra": {
+        "text": "Equipe Feminina de Futebol",
+        "url": "https://www.youtube.com/watch?v=qEQKXkbh58c&t=5s"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=N5YvB49EzEE"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Z6yvSKYxVPU"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=XgJAmMr_Ek0"
+        }
+      ]
+    },
+    {
+      "titulo": "REAL MADRID BALONCESTO",
+      "cor": "#726100",
+      "link_extra": {
+        "text": "Equipe de Basquete Masculino",
+        "url": "https://www.youtube.com/watch?v=jvShxSuluH0"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=jvShxSuluH0"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=pSYoFodbXrc"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Ky-AiWFZuBI"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=g1vMXxunsiE"
+        }
+      ]
+    },
+    {
+      "titulo": "FÁBRICA MADRID",
+      "cor": "#00BFB4",
+      "link_extra": {
+        "text": "Notícias da Fábrica Real Madrid",
+        "url": "https://www.youtube.com/watch?v=jvShxSuluH0"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=YxnG720LhyQ"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=itUZk8XIdLk"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=IVkpqoUSzvU"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=TU_Px8mQpTk"
+        }
+      ]
+    },
+    {
+      "titulo": "UEFA 2019/20",
+      "cor": "#0074BF",
+      "link_extra": {
+        "text": "Trajetória da equipe durante a temporada 2019/20 na UCL",
+        "url": "https://www.youtube.com/watch?v=IAiI6dwpmag"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=IAiI6dwpmag"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=5-VDO-Y0O7Y"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Y8aZ03wqebc"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=iSfG8XDqEMw"
+        }
+      ]
+    },
+    {
+      "titulo": "DOCUMENTÁRIOS",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Documentários em geral do Real Madrid",
+        "url": "https://www.youtube.com/watch?v=Se_I2WYUEvw"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Se_I2WYUEvw"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=3G-_Q3ULOYI"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=xRseFQDPDE8"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=W95ZHu2Yfkk"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=3gf3L3AWwyI"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=GvEUC8cLJIY"
+        }
+      ]
+    }
+  ]
+}
